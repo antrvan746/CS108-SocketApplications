@@ -1,0 +1,162 @@
+[
+    {
+        "id": "0",
+        "name": "Eiffel Tower, Paris",
+        "latitude": "48.858260200000004",
+        "longtitude": "2.2944990543196795",
+        "description": "Tour Eiffel, 5, Avenue Anatole France, Quartier du Gros-Caillou, Paris 7e Arrondissement, Paris",
+        "links": "images\\Eiffel Tower, Paris.jpg"
+    },
+    {
+        "id": "1",
+        "name": "The Colosseum, Rome",
+        "latitude": "41.8898076",
+        "longtitude": "12.488831096831277",
+        "description": "Archaeological Park of the Colosseum, Municipio Roma I, Roma, Roma Capitale, Lazio, Italia",
+        "links": "images\\The Colosseum, Rome.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Statue of Liberty, New York City",
+        "latitude": "40.689253199999996",
+        "longtitude": "-74.04454817144321",
+        "description": "Statue of Liberty, Flagpole Plaza, Manhattan Community Board 1, Manhattan, New York County, New York, 10004, United States",
+        "links": "images\\Statue of Liberty, New York City.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Machu Picchu, Peru",
+        "latitude": "-13.164421950000001",
+        "longtitude": "-72.54508510173372",
+        "description": "Ciudadela de Machu Picchu, Camino a Puente Inka, San Miguel, Intihuatana, Machupicchu, Urubamba, Cusco, 08680, Peru",
+        "links": "images\\Machu Picchu, Peru.jpg"
+    },
+    {
+        "id": "4",
+        "name": "The Acropolis, Athens",
+        "latitude": "33.9339666",
+        "longtitude": "-83.3359741",
+        "description": "Acropolis Drive, Athens-Clarke County Unified Government, Athens-Clarke County, Georgia, 30605, United States",
+        "links": "images\\The Acropolis, Athens.jpg"
+    },
+    {
+        "id": "5",
+        "name": "The Taj Mahal, India",
+        "latitude": "27.1770779",
+        "longtitude": "78.0463186",
+        "description": "Tower with viewpoint on the Taj Mahal, Taj Mahal Internal Path, Taj Ganj, Agra, Uttar Pradesh, 282006, India",
+        "links": "images\\The Taj Mahal, India.jpg"
+    },
+    {
+        "id": "6",
+        "name": "Pyramids of Giza, Egypt",
+        "latitude": "30.003032150000003",
+        "longtitude": "31.0160397139205",
+        "description": "null",
+        "links": "images\\Pyramids of Giza, Egypt.jpg"
+    },
+    {
+        "id": "7",
+        "name": "Great Wall of China",
+        "latitude": "40.3598734",
+        "longtitude": "116.0133592",
+        "description": "null",
+        "links": "images\\Great Wall of China.jpg"
+    },
+    {
+        "id": "8",
+        "name": "Angkor Wat, Cambodia",
+        "latitude": "13.41244125",
+        "longtitude": "103.86658402684736",
+        "description": "null",
+        "links": "images\\Angkor Wat, Cambodia.jpg"
+    },
+    {
+        "id": "9",
+        "name": "Petra, Jordan",
+        "latitude": "30.3497724",
+        "longtitude": "35.37648463002928",
+        "description": "null",
+        "links": "images\\Petra, Jordan.jpg"
+    },
+    {
+        "id": "10",
+        "name": "Grand Canyon, USA",
+        "latitude": "36.0965604",
+        "longtitude": "-112.0984941",
+        "description": "Grand Canyon, Coconino County, Arizona, United States",
+        "links": "images\\Grand Canyon, USA.jpg"
+    },
+    {
+        "id": "11",
+        "name": "Stonehenge, England",
+        "latitude": "51.178829300000004",
+        "longtitude": "-1.8261830004623518",
+        "description": "Stonehenge, The Avenue, Amesbury, Wiltshire, South West England, England, SP4 7DE, United Kingdom",
+        "links": "images\\Stonehenge, England.jpg"
+    },
+    {
+        "id": "12",
+        "name": "Borobudur, Indonesia",
+        "latitude": "-7.6079583",
+        "longtitude": "110.20382445260663",
+        "description": "Borobudur, Jalan Salaman - Mungkid, Wringinputih, Magelang, Jawa Tengah, 56553, Indonesia",
+        "links": "images\\Borobudur, Indonesia.jpg"
+    },
+    {
+        "id": "13",
+        "name": "Niagara Falls, Canada & USA",
+        "latitude": "43.08923305",
+        "longtitude": "-78.99404923813714",
+        "description": "Comfort Inn & Suites Niagara Falls Boulevard Usa, 6115, Niagara Falls Boulevard, Niagara Falls, Niagara County, New York, 14304, United States",
+        "links": "images\\Niagara Falls, Canada & USA.jpg"
+    },
+    {
+        "id": "14",
+        "name": "Bagan, Myanmar",
+        "latitude": "21.1317111",
+        "longtitude": "94.8623644",
+        "description": "null",
+        "links": "images\\Bagan, Myanmar.jpg"
+    },
+    {
+        "id": "15",
+        "name": "Sydney Opera House",
+        "latitude": "-33.85719805",
+        "longtitude": "151.21512338473752",
+        "description": "Sydney Opera House, 2, Macquarie Street, Sydney, Council of the City of Sydney, New South Wales, 2000, Australia",
+        "links": "images\\Sydney Opera House.jpg"
+    },
+    {
+        "id": "16",
+        "name": "Mount Kilimanjaro",
+        "latitude": "-22.4876277",
+        "longtitude": "17.0575913",
+        "description": "Mount Meru Street, Okahandka Park, Kilimanjaro Informal Settlement, Windhoek, Khomas Region, 10028, Namibia",
+        "links": "images\\Mount Kilimanjaro.jpg"
+    },
+    {
+        "id": "17",
+        "name": "The Louvre, Paris",
+        "latitude": "48.8653022",
+        "longtitude": "2.3229461",
+        "description": "null",
+        "links": "images\\The Louvre, Paris.jpg"
+    },
+    {
+        "id": "18",
+        "name": "Forbidden City, China",
+        "latitude": "39.91727565",
+        "longtitude": "116.39076940577283",
+        "description": "null",
+        "links": "images\\Forbidden City, China.jpg"
+    },
+    {
+        "id": "19",
+        "name": "Prague Castle, Czech Republic",
+        "latitude": "50.0908114",
+        "longtitude": "14.400522932857562",
+        "description": "null",
+        "links": "images\\Prague Castle, Czech Republic.jpg"
+    }
+]
